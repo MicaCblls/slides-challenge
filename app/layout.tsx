@@ -23,11 +23,11 @@ export const metadata: Metadata = {
   title: "Angela Smith",
   description: "Slides challenge developed by Micaela Ceballos",
   keywords: ["Slides", "React", "Typescript", "Next.js"],
-  // metadataBase: new URL(""),
+  metadataBase: new URL("https://slides-challenge-iota.vercel.app/"),
   authors: [
     {
       name: "Micaela Ceballos",
-      url: "",
+      url: "https://slides-challenge-iota.vercel.app/",
     },
   ],
   icons: {
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     apple: "/images/nextjsLogo.png",
   },
   alternates: {
-    canonical: "",
+    canonical: "https://slides-challenge-iota.vercel.app/",
   },
 };
 
