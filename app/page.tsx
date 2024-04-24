@@ -1,9 +1,9 @@
-import Image from "next/image";
+import About from "@/src/components/about";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between">
-      Hello!
+    <main className=" flex flex-col pt-16 h-full sm:pt-20 ">
+      <About />
     </main>
   );
 }
