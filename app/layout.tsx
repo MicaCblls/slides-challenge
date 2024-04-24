@@ -23,20 +23,20 @@ export const metadata: Metadata = {
   title: "Angela Smith",
   description: "Slides challenge developed by Micaela Ceballos",
   keywords: ["Slides", "React", "Typescript", "Next.js"],
-  // metadataBase: new URL(""),
+  metadataBase: new URL("https://slides-challenge-iota.vercel.app/"),
   authors: [
     {
       name: "Micaela Ceballos",
-      url: "",
+      url: "https://slides-challenge-iota.vercel.app/",
     },
   ],
   icons: {
-    icon: "/images/nextjsLogo.png",
-    shortcut: "/images/nextjsLogo.png",
-    apple: "/images/nextjsLogo.png",
+    icon: "/next.svg",
+    shortcut: "/next.svg",
+    apple: "/next.svg",
   },
   alternates: {
-    canonical: "",
+    canonical: "https://slides-challenge-iota.vercel.app/",
   },
 };
 
