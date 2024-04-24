@@ -31,9 +31,9 @@ export const metadata: Metadata = {
     },
   ],
   icons: {
-    icon: "/images/nextjsLogo.png",
-    shortcut: "/images/nextjsLogo.png",
-    apple: "/images/nextjsLogo.png",
+    icon: "/next.svg",
+    shortcut: "/next.svg",
+    apple: "/next.svg",
   },
   alternates: {
     canonical: "https://slides-challenge-iota.vercel.app/",
